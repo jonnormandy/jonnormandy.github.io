@@ -30,12 +30,22 @@ a {
     margin-bottom: 0;
 }
 
-.navbar-toggle {
+.navbar-toggler {
     margin-top: 0;
     margin-bottom: 0;
 }
 
 .nav-link{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.navbar {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.nav-item{
     margin-top: 0;
     margin-bottom: 0;
 }
