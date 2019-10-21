@@ -24,3 +24,8 @@ p {
 a {
     color:inherit;
   }
+
+ul.nav li a {
+    margin-top: 0;
+    margin-bottom: 0;
+}
