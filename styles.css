@@ -41,8 +41,7 @@ a {
 }
 
 .navbar {
-    margin-top: 0;
-    margin-bottom: 0;
+    min-height: 30px;
 }
 
 .nav-item{
