@@ -14,3 +14,9 @@ h2 {
 p {
     text-align: center;
 }
+
+#faTwitter {
+    color: #fff;
+    text-shadow: 1px 1px 1px #ccc;
+    font-size: 1.5em;
+}
