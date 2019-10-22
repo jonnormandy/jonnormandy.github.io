@@ -24,3 +24,7 @@ p {
 a {
     color:inherit;
   }
+
+.card {
+    text-align: center;
+}
